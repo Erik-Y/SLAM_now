@@ -1,0 +1,12 @@
+#associate(数据集文件夹下运行)
+python2 associate.py rgb.txt depth.txt > associate.txt
+
+#rpe
+
+python3 evaluate_rpe.py /home/erik/DataSets/DataSets/rgbd_dataset_freiburg1_xyz/groundtruth.txt /home/erik/DataSets/vo_1/data.txt --fixed_delta --delta=1.0 --delta_unit='s' --save='SAVE' --plot=’PLOT‘ --verbose
+
+
+#ate
+python3 evaluate_ate.py /home/erik/DataSets/DataSets/rgbd_dataset_freiburg1_xyz/groundtruth.txt /home/erik/DataSets/vo_1/data.txt --save='SAVE' --save_associations='SAVE_ASSOCIATIONS' --plot=’PLOT‘ --verbose
+
+

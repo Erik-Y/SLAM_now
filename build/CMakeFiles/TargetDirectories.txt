@@ -1,0 +1,8 @@
+/home/erik/MyWorks/now/build/CMakeFiles/rebuild_cache.dir
+/home/erik/MyWorks/now/build/CMakeFiles/edit_cache.dir
+/home/erik/MyWorks/now/build/src/CMakeFiles/rebuild_cache.dir
+/home/erik/MyWorks/now/build/src/CMakeFiles/myslam.dir
+/home/erik/MyWorks/now/build/src/CMakeFiles/edit_cache.dir
+/home/erik/MyWorks/now/build/test/CMakeFiles/rebuild_cache.dir
+/home/erik/MyWorks/now/build/test/CMakeFiles/run_vo.dir
+/home/erik/MyWorks/now/build/test/CMakeFiles/edit_cache.dir

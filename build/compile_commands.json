@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/erik/MyWorks/now/build/src",
+  "command": "g++  -Dmyslam_EXPORTS -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/erik/Librarys/Sophus -I/home/erik/MyWorks/now/include  -std=c++11  -O3 -g -fPIC   -o CMakeFiles/myslam.dir/process_info.cpp.o -c /home/erik/MyWorks/now/src/process_info.cpp",
+  "file": "/home/erik/MyWorks/now/src/process_info.cpp"
+},
+{
+  "directory": "/home/erik/MyWorks/now/build/src",
+  "command": "g++  -Dmyslam_EXPORTS -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/erik/Librarys/Sophus -I/home/erik/MyWorks/now/include  -std=c++11  -O3 -g -fPIC   -o CMakeFiles/myslam.dir/config.cpp.o -c /home/erik/MyWorks/now/src/config.cpp",
+  "file": "/home/erik/MyWorks/now/src/config.cpp"
+},
+{
+  "directory": "/home/erik/MyWorks/now/build/src",
+  "command": "g++  -Dmyslam_EXPORTS -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/erik/Librarys/Sophus -I/home/erik/MyWorks/now/include  -std=c++11  -O3 -g -fPIC   -o CMakeFiles/myslam.dir/frame.cpp.o -c /home/erik/MyWorks/now/src/frame.cpp",
+  "file": "/home/erik/MyWorks/now/src/frame.cpp"
+},
+{
+  "directory": "/home/erik/MyWorks/now/build/src",
+  "command": "g++  -Dmyslam_EXPORTS -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/erik/Librarys/Sophus -I/home/erik/MyWorks/now/include  -std=c++11  -O3 -g -fPIC   -o CMakeFiles/myslam.dir/mappoint.cpp.o -c /home/erik/MyWorks/now/src/mappoint.cpp",
+  "file": "/home/erik/MyWorks/now/src/mappoint.cpp"
+},
+{
+  "directory": "/home/erik/MyWorks/now/build/src",
+  "command": "g++  -Dmyslam_EXPORTS -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/erik/Librarys/Sophus -I/home/erik/MyWorks/now/include  -std=c++11  -O3 -g -fPIC   -o CMakeFiles/myslam.dir/map.cpp.o -c /home/erik/MyWorks/now/src/map.cpp",
+  "file": "/home/erik/MyWorks/now/src/map.cpp"
+},
+{
+  "directory": "/home/erik/MyWorks/now/build/src",
+  "command": "g++  -Dmyslam_EXPORTS -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/erik/Librarys/Sophus -I/home/erik/MyWorks/now/include  -std=c++11  -O3 -g -fPIC   -o CMakeFiles/myslam.dir/camera.cpp.o -c /home/erik/MyWorks/now/src/camera.cpp",
+  "file": "/home/erik/MyWorks/now/src/camera.cpp"
+},
+{
+  "directory": "/home/erik/MyWorks/now/build/src",
+  "command": "g++  -Dmyslam_EXPORTS -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/erik/Librarys/Sophus -I/home/erik/MyWorks/now/include  -std=c++11  -O3 -g -fPIC   -o CMakeFiles/myslam.dir/g2o_edgetypes.cpp.o -c /home/erik/MyWorks/now/src/g2o_edgetypes.cpp",
+  "file": "/home/erik/MyWorks/now/src/g2o_edgetypes.cpp"
+},
+{
+  "directory": "/home/erik/MyWorks/now/build/src",
+  "command": "g++  -Dmyslam_EXPORTS -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/erik/Librarys/Sophus -I/home/erik/MyWorks/now/include  -std=c++11  -O3 -g -fPIC   -o CMakeFiles/myslam.dir/visual_odometry.cpp.o -c /home/erik/MyWorks/now/src/visual_odometry.cpp",
+  "file": "/home/erik/MyWorks/now/src/visual_odometry.cpp"
+},
+{
+  "directory": "/home/erik/MyWorks/now/build/test",
+  "command": "g++   -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/erik/Librarys/Sophus -I/home/erik/MyWorks/now/include  -std=c++11  -O3 -g   -o CMakeFiles/run_vo.dir/run_vo.cpp.o -c /home/erik/MyWorks/now/test/run_vo.cpp",
+  "file": "/home/erik/MyWorks/now/test/run_vo.cpp"
+}
+]
